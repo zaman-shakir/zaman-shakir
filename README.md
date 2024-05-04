@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shakir
 - 👀 I’m interested in PHP, Wordpress and MERN
-- 🌱 I’m currently learning MERN & AWS
+- 🌱 I’m currently learning More about WordPress and Sveltkit development
 - 📫 How to reach me ... mail me at zaman.shakirdev@gmail.com
 
 <!---
