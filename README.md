@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Shakir
+## 👋 Hi, I’m Shakir ![Profile Views](https://komarev.com/ghpvc/?username=zaman-shakir&color=brightgreen)
+
 - 👀 I’m interested in PHP, WordPress, and Gutenberg Block development
 - 🌱 I’m currently learning more about WordPress and React development
 - 📫 How to reach me: mail me at [zaman.shakirdev@gmail.com](mailto:zaman.shakirdev@gmail.com)
